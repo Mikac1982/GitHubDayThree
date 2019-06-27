@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 my inosent change
+=======
+My scary merge conflict code
+
+
+>>>>>>> origin/master
 hello batman
 
